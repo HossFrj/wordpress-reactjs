@@ -1,0 +1,56 @@
+.login-btn{
+    position: absolute;
+    left: 50px;
+    top: 10px;
+}
+.posts-img{
+    background-repeat: no-repeat;
+}
+.login-input{
+    width: 300px;
+    margin-bottom: 25px;
+}
+.login-avatar{
+    position: absolute;
+    left: 50px;
+    top: 10px;
+}
+.dashboard-card{
+    height: 300px;
+    width: 100%;
+    
+    padding: 10px;
+}
+.danger-card{
+    /* background-color: red; */
+    border-radius: 15px;
+    padding: 30px;
+}
+.success-card{
+    /* background-color: green; */
+    border-radius: 15px;
+    padding: 30px;
+}
+.warning-card{
+    /* background-color: yellow; */
+    border-radius: 15px;
+    padding: 30px;
+}
+.primary-card{
+    /* background-color: blue; */
+    border-radius: 15px;
+    padding: 30px;
+}
+.users-list{
+    text-align-last: center;
+}
+.change-info-modal{
+    text-align: right;
+}
+.cat-change{
+    position: relative;
+    /* right: 35%; */
+    margin-right: auto;
+    margin-left: auto;
+    top: 100px;
+}
