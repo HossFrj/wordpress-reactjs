@@ -10,10 +10,10 @@ The theme will not display anything if Javascript is disabled. Make sure Javascr
 
 Display
 The theme uses Bootstrap for styling its views and components.
-NPM Packages
-React-Router-DOM
-React-DOM
-React-Render-Html
-React-Redux
-Redux
-Reactstrap
+#NPM Packages
+#React-Router-DOM
+#React-DOM
+#React-Render-Html
+#React-Redux
+#Redux
+#Reactstrap
