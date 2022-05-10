@@ -1,4 +1,4 @@
-<p># Description</p>
+<p> Description</p>
 <p>Black hawk is a REST API powered WordPress theme which uses the React Javascript library by Facebook for its front end rendering. All the data is fetched using WordPress REST API and rendered using React.</p>
 <p>The things to be kept in mind before using this theme:</p>
 <p>Make sure you have WordPress updated to 4.7 or higher that supports the REST API endpoints.</p>
